@@ -1,6 +1,7 @@
 ﻿<Properties StartupConfiguration="{FFE82798-859B-45B1-B836-0189074CF79D}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="状態: teamefstaapitest">
     <Files>
+      <File FileName="状態: Controllers" />
       <File FileName="状態: teamefstaapitest" />
     </Files>
   </MonoDevelop.Ide.Workbench>
